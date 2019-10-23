@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+ .hinh1{ 
+ max-width: 500px;
+ border-image: 50px;
+
+}
+#tieude{
+text-align: center;
+padding-top: 50px;
+color: brown;
+
+}
+#tieude2{
+    text-align: center;   
+}
+#noidung{
+    text-align: center;
+}
+img.hinh1 {display: block; margin-left: auto; margin-right: auto; }
+img.hinh1 {}
+
+body{
+
+}
